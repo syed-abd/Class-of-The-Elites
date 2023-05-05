@@ -13,3 +13,6 @@ removed inventory1 and inventory2
 added = tile for easy accessibility of map
 removed = typos
 removed = settings and description and replaced with tile
+
+V.3 - Modules
+updated - header

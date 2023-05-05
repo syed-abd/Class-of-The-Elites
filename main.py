@@ -1,7 +1,8 @@
 ##############################################################################
-# Title: RPG Inventory                                                               
+# Title: Class of the Elite
+# Assignment: RPG Modules                                                               
 # Class: Computer Science 30                                                            
-# Date:  April 18, 2023                                                               
+# Date:  May 5th, 2023                                                               
 # Coders Name: Abullah Hashmi                                                      
 # Version: 003   
 ##############################################################################
